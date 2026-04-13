@@ -1,5 +1,5 @@
 {
-    "name": "haraka-plugin-wildduck",
+    "name": "@mayur-mindruby/haraka-wildduck-plugin",
     "version": "5.8.38",
     "description": "Haraka plugin for processing incoming messages for the WildDuck IMAP server",
     "main": "index.js",
