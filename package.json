@@ -35,6 +35,18 @@
         "url": "https://github.com/zone-eu/haraka-plugin-wildduck/issues"
     },
     "homepage": "https://github.com/zone-eu/haraka-plugin-wildduck#readme",
+   "bundledDependencies": [
+        "@zone-eu/wildduck",
+        "gelf",
+        "haraka-dsn",
+        "ioredis",
+        "libmime",
+        "mailauth",
+        "mongodb",
+        "nodemailer",
+        "punycode.js",
+        "srs.js"
+    ],
     "devDependencies": {
         "@haraka/eslint-config": "2.0.3",
         "eslint": "9.25.1",
