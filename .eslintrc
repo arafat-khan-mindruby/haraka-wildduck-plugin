@@ -1,0 +1,9 @@
+{
+    "rules": {
+        "no-await-in-loop": 0
+    },
+    "extends": ["nodemailer", "prettier", "@haraka"],
+    "parserOptions": {
+        "ecmaVersion": 2022
+    }
+}
