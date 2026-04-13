@@ -3,6 +3,13 @@
     "version": "5.8.39",
     "description": "Haraka plugin for processing incoming messages for the WildDuck IMAP server",
     "main": "index.js",
+    "files": [
+      "index.js",
+      "lib/",
+      "config/",
+      "node_modules/",
+      "package-lock.json"
+    ],
     "scripts": {
         "lint": "npx eslint *.js lib",
         "lint:fix": "npx eslint *.js lib --fix",
