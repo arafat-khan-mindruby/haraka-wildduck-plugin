@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/zone-eu/haraka-plugin-wildduck.git"
+        "url": "https://github.com/arafat-khan-mindruby/haraka-wildduck-plugin.git"
     },
     "keywords": [
         "MX",
@@ -22,7 +22,7 @@
         "IMAP",
         "LMTP"
     ],
-    "author": "Andris Reinman",
+    "author": "Arafat Khan",
     "license": "EUPL-1.1+",
     "bugs": {
         "url": "https://github.com/zone-eu/haraka-plugin-wildduck/issues"
