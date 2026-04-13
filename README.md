@@ -39,3 +39,7 @@ This plugin includes SPF and DKIM support. You should not enable Haraka's built-
 European Union Public License 1.1 ([details](http://ec.europa.eu/idabc/eupl.html)) or later
 
 > WildDuck plugin for Haraka (`@zone-eu/haraka-plugin-wildduck`) is part of the Zone Mail Suite (ZMS). Suite of programs and modules for an efficient, fast and modern email server.
+
+# haraka-wildduck-plugin
+Customize wildduck plugin for haraka according to blinkly requirement.
+>>>>>>> 45030cb5d848975fce2b94bbb2b55db620144c1e
